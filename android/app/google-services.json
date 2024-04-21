@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365101486757",
+    "project_id": "dev-scribe-ocrbxu",
+    "storage_bucket": "dev-scribe-ocrbxu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365101486757:android:192148656622072632734c",
+        "android_client_info": {
+          "package_name": "com.mycompany.devscribe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEApndyDa1qaSG1Hb5ttZloto0j2BsiV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
